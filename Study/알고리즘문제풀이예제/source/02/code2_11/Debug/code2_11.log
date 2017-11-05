@@ -1,0 +1,11 @@
+﻿빌드 시작: 2016-05-25 오후 5:01:15
+     1>2 노드의 "E:\Dropbox\한빛 업무 문서\진행 원고\20. 알고리즘 퍼즐북\09_예제\수정 예제\02\code2_11\code2_11.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt code2_11.c
+         code2_11.c
+     1>e:\dropbox\한빛 업무 문서\진행 원고\20. 알고리즘 퍼즐북\09_예제\수정 예제\02\code2_11\code2_11.c(16): error C2105: '++'에 l-value가 필요합니다.
+     1>"E:\Dropbox\한빛 업무 문서\진행 원고\20. 알고리즘 퍼즐북\09_예제\수정 예제\02\code2_11\code2_11.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.48
